@@ -1,0 +1,8 @@
+pull 1234
+hh
+合并的内容
+<<<<<<< HEAD
+这是master分支的内容
+=======
+这是mergedemo分支增加的内容
+>>>>>>> mergedemo
